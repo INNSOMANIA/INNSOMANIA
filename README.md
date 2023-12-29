@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/INNSOMANIA/INNSOMANIA/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="center">Hello, I'm Yusuf Can. I am a final year student at Selcuk University / IT Department in Turkey. I work with FrontEnd and BackEnd technologies. Starting with front-end technology, I have been working in the software industry since. I prefer working with teams. In the university projects, I have worked in teams and synchronized with the project coordinators and teachers in the IT department.</p>
 
 ###
