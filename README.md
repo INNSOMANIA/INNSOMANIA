@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yusuf ARAS, a Junior Full-Stack Developer freelance</div>  
+### <div align="center">I'm Yusuf ARAS, a Java Developer freelance</div>  
 <br>
   
 
