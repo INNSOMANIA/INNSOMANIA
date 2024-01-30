@@ -7,11 +7,7 @@
 <br>
   
 
-<p align="center">Hello my name is Yusuf Can. I am 23 years old . I am a senior student at Selçuk University / Information Technology. I am a Java Developer. I started my software life as a Front end developer and continue as a Backend developer. I am currently working freelance on Backend. You can check out my github repository for my current projects.
-
-Frontend  ( Html , Css , JavaScript , React )
-Backend ( Java , C# )
-DataBase  ( PostgreSQL , MySQL )</p>
+<p align="center">Hello my name is Yusuf Can. I am 23 years old . I am a senior student at Selçuk University / Information Technology. I am a Java Developer. I started my software life as a Front end developer and continue as a Backend developer. I am currently working freelance on Backend. You can check out my github repository for my current projects.</p>
   
 <br>
 
