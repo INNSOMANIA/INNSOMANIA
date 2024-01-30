@@ -7,7 +7,11 @@
 <br>
   
 
-<p align="center">Hello, I'm Yusuf Can. I am a final year student at Selcuk University / IT Department in Turkey. I work with FrontEnd and BackEnd technologies. Starting with front-end technology, I have been working in the software industry since. I prefer working with teams. In the university projects, I have worked in teams and synchronized with the project coordinators and teachers in the IT department.</p>
+<p align="center">Hello my name is Yusuf Can. I am 23 years old . I am a senior student at Selçuk University / Information Technology. I am a Java Developer. I started my software life as a Front end developer and continue as a Backend developer. I am currently working freelance on Backend. You can check out my github repository for my current projects.
+
+Frontend  ( Html , Css , JavaScript , React )
+Backend ( Java , C# )
+DataBase  ( PostgreSQL , MySQL )</p>
   
 <br>
 
